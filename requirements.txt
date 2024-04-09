@@ -1,0 +1,5 @@
+numpy
+torch
+torchvision
+pytorch_lightning
+matplotlib
